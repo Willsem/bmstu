@@ -25,3 +25,6 @@
 [submodule "sem_05/coursework-computer-graphics"]
 	path = sem_05/coursework-computer-graphics
 	url = https://github.com/bmstu-ics7/coursework-computer-graphics
+[submodule "sem_05/operating-systems"]
+	path = sem_05/operating-systems
+	url = https://github.com/bmstu-ics7/operating-systems
