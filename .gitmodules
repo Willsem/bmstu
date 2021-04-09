@@ -1,3 +1,9 @@
 [submodule "sem_02/c-programming"]
 	path = sem_02/c-programming
 	url = https://github.com/bmstu-ics7/c-programming.git
+[submodule "sem_03/c-programming"]
+	path = sem_03/c-programming
+	url = https://github.com/bmstu-ics7/c-programming.git
+[submodule "sem_03/data-types-and-structures"]
+	path = sem_03/data-types-and-structures
+	url = https://github.com/bmstu-ics7/data-types-and-structures
