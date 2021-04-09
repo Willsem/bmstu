@@ -61,3 +61,6 @@
 [submodule "sem_08/planning-of-experiment"]
 	path = sem_08/planning-of-experiment
 	url = https://github.com/bmstu-ics7/planning-of-experiment
+[submodule "sem_08/digital-signal-processing"]
+	path = sem_08/digital-signal-processing
+	url = https://github.com/bmstu-ics7/digital-signal-processing
