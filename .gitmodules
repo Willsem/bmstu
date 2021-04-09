@@ -37,3 +37,6 @@
 [submodule "sem_07/modeling"]
 	path = sem_07/modeling
 	url = https://github.com/bmstu-ics7/modeling
+[submodule "sem_06/mathematical-statistics"]
+	path = sem_06/mathematical-statistics
+	url = https://github.com/bmstu-ics7/mathematical-statistics
