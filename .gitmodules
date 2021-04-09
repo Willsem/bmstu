@@ -13,3 +13,6 @@
 [submodule "sem_04/object-oriented-programming"]
 	path = sem_04/object-oriented-programming
 	url = https://github.com/bmstu-ics7/object-oriented-programming
+[submodule "sem_04/computer-graphics"]
+	path = sem_04/computer-graphics
+	url = https://github.com/bmstu-ics7/computer-graphics
