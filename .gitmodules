@@ -10,3 +10,6 @@
 [submodule "sem_04/computational-algorithms"]
 	path = sem_04/computational-algorithms
 	url = https://github.com/bmstu-ics7/computational-algorithms
+[submodule "sem_04/object-oriented-programming"]
+	path = sem_04/object-oriented-programming
+	url = https://github.com/bmstu-ics7/object-oriented-programming
