@@ -49,3 +49,6 @@
 [submodule "sem_07/information-security"]
 	path = sem_07/information-security
 	url = https://github.com/bmstu-ics7/information-security
+[submodule "sem_07/computer-network"]
+	path = sem_07/computer-network
+	url = https://github.com/bmstu-ics7/computer-network
