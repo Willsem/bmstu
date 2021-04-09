@@ -19,3 +19,6 @@
 [submodule "sem_05/data-bases"]
 	path = sem_05/data-bases
 	url = https://github.com/bmstu-ics7/data-bases
+[submodule "sem_05/analysis-of-algorithms"]
+	path = sem_05/analysis-of-algorithms
+	url = https://github.com/bmstu-ics7/analysis-of-algorithms
