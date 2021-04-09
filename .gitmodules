@@ -43,3 +43,6 @@
 [submodule "sem_06/functional-programming"]
 	path = sem_06/functional-programming
 	url = https://github.com/bmstu-ics7/functional-programming
+[submodule "sem_06/logical-programming"]
+	path = sem_06/logical-programming
+	url = https://github.com/bmstu-ics7/logical-programming
