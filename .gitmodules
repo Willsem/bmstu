@@ -40,3 +40,6 @@
 [submodule "sem_06/mathematical-statistics"]
 	path = sem_06/mathematical-statistics
 	url = https://github.com/bmstu-ics7/mathematical-statistics
+[submodule "sem_06/functional-programming"]
+	path = sem_06/functional-programming
+	url = https://github.com/bmstu-ics7/functional-programming
