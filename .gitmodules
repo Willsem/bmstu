@@ -1,0 +1,3 @@
+[submodule "sem_02/c-programming"]
+	path = sem_02/c-programming
+	url = https://github.com/bmstu-ics7/c-programming.git
