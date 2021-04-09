@@ -22,3 +22,6 @@
 [submodule "sem_05/analysis-of-algorithms"]
 	path = sem_05/analysis-of-algorithms
 	url = https://github.com/bmstu-ics7/analysis-of-algorithms
+[submodule "sem_05/coursework-computer-graphics"]
+	path = sem_05/coursework-computer-graphics
+	url = https://github.com/bmstu-ics7/coursework-computer-graphics
