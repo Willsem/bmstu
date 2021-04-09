@@ -55,3 +55,6 @@
 [submodule "sem_07/coursework-operating-systems"]
 	path = sem_07/coursework-operating-systems
 	url = https://github.com/bmstu-ics7/coursework-operating-systems
+[submodule "sem_08/economics-of-software-engineering"]
+	path = sem_08/economics-of-software-engineering
+	url = https://github.com/bmstu-ics7/economics-of-software-engineering
