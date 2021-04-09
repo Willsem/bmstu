@@ -46,3 +46,6 @@
 [submodule "sem_06/logical-programming"]
 	path = sem_06/logical-programming
 	url = https://github.com/bmstu-ics7/logical-programming
+[submodule "sem_07/information-security"]
+	path = sem_07/information-security
+	url = https://github.com/bmstu-ics7/information-security
