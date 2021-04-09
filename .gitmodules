@@ -28,3 +28,6 @@
 [submodule "sem_05/operating-systems"]
 	path = sem_05/operating-systems
 	url = https://github.com/bmstu-ics7/operating-systems
+[submodule "sem_06/operating-systems"]
+	path = sem_06/operating-systems
+	url = https://github.com/bmstu-ics7/operating-systems
