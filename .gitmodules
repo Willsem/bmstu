@@ -52,3 +52,6 @@
 [submodule "sem_07/computer-network"]
 	path = sem_07/computer-network
 	url = https://github.com/bmstu-ics7/computer-network
+[submodule "sem_07/coursework-operating-systems"]
+	path = sem_07/coursework-operating-systems
+	url = https://github.com/bmstu-ics7/coursework-operating-systems
