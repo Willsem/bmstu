@@ -64,3 +64,6 @@
 [submodule "sem_08/digital-signal-processing"]
 	path = sem_08/digital-signal-processing
 	url = https://github.com/bmstu-ics7/digital-signal-processing
+[submodule "sem_08/isis-notes"]
+	path = sem_08/isis-notes
+	url = https://github.com/willsem/isis-notes
