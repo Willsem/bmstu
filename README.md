@@ -28,10 +28,10 @@
 ## Sem 06
 
 [![fp](https://github-readme-stats.vercel.app/api/pin/?username=bmstu-ics7&repo=functional-programming&hide_border=false&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/bmstu-ics7/functional-programming)
-[![lp](https://github-readme-stats.vercel.app/api/pin/?username=bmstu-ics7&repo=logical-programming&hide_border=false&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/bmstu-ics7/logical-programming)(https://github.com/bmstu-ics7/data-types-and-structures)
+[![lp](https://github-readme-stats.vercel.app/api/pin/?username=bmstu-ics7&repo=logical-programming&hide_border=false&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/bmstu-ics7/logical-programming)
 [![ms](https://github-readme-stats.vercel.app/api/pin/?username=bmstu-ics7&repo=mathematical-statistics&hide_border=false&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/bmstu-ics7/mathematical-statistics)
 [![modeling](https://github-readme-stats.vercel.app/api/pin/?username=bmstu-ics7&repo=modeling&hide_border=false&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/bmstu-ics7/modeling)
-[![os](https://github-readme-stats.vercel.app/api/pin/?username=bmstu-ics7&repo=operating-systems&hide_border=false&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/bmstu-ics7/data-types-and-structures)
+[![os](https://github-readme-stats.vercel.app/api/pin/?username=bmstu-ics7&repo=operating-systems&hide_border=false&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/bmstu-ics7/operating-systems)
 
 ## Sem 07
 
